@@ -3,7 +3,6 @@
 
 
 ## ⚡🙋‍ About Me 
-- 🔭 I’m currently working on an application that processes huge amounts of financial data using Apache Spark (It's quite fun).
 - 🌱 I’m currently learning iOS, GraphQL, etc.
 - 👯 I’m looking to collaborate on any projects that involve a lot of creative thinking.
 - 💬 Ask me about Angular, Big data processing, Algorithms, Data strutures and Apache Spark.
@@ -15,8 +14,6 @@
 
 ## <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <span><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" ></span>
-<span><img alt="Scala" src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"></span>
-<span><img alt="ApacheSpark" src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16"></span>
 <span><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" ></span>
 <span><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=whitee" ></span>
 <span><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" ></span>
