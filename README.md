@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning iOS, GraphQL, etc.
 - 👯 I’m looking to collaborate on any projects that involve a lot of creative thinking.
 - 💬 Ask me about Angular, Big data processing, Algorithms, Data strutures and Apache Spark.
-- 📫 How to reach me: Just say Hi! 🤗 through <a href="https://www.linkedin.com/in/robbyroda" target="_blank"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> 
+- 📫 How to reach me: Just say Hi! 🤗 through <a href="[https://www.linkedin.com/in/robbyroda](https://www.linkedin.com/in/robby-roda-b03089363)" target="_blank"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> 
 - 😄 Pronouns: (Him/He)
 - ⚡ Fun fact: Wala, kasi wala naman ako kwenta jk! 
 
